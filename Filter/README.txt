@@ -1,1 +1,1 @@
-this is where the folders are stored
+this is where the filters are stored
